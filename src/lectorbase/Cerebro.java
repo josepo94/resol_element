@@ -22,7 +22,7 @@ public class Cerebro {
 
     
     //Version 2
-    //-------------------------------------   Calculadora   ---------------------------------------------------------
+    //-------------------------------------   Calculadora   -----------------------------------------------------
     public String calculadoraV2(String ecuacion){
         String resultado = "";
         int as = 1;
@@ -89,6 +89,8 @@ public class Cerebro {
             }
              if(guardar==true){
                 acum += Arreglo2[j] + ",";
+                
+                
             } 
         }
         acum += "";
