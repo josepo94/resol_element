@@ -164,7 +164,7 @@ public class Consola extends javax.swing.JFrame {
         jTextArea1.setColumns(20);
         jTextArea1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jTextArea1.setRows(5);
-        jTextArea1.setText("Bryan Beltrán\nJose Bastidas\nLuis Flores\nMiguel Recalde");
+        jTextArea1.setText("Bryan Beltrán\nJose Bastidas\nLuis Flores\nEnzo Delgado");
         jScrollPane5.setViewportView(jTextArea1);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
